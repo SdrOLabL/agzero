@@ -1,4 +1,5 @@
 import math
+# state class contains methods to play tic tac toe
 import state as s
 import copy
 import numpy as np
